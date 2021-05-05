@@ -7,55 +7,46 @@ redirect_from:
   - /resume
 ---
 
-![Resume banner](/images/Resume.png) 
+<img src="/images/Resume.png" alt="Resume" width="650"/>
 
 {% include base_path %}
 
 Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+----
+* Data Science Certificate, University of Washington, 2021
+* Data Science Nanodegree, Udacity 2017 
+* B.S. University of Maryland, Baltimore University, 2015
+
 
 Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+----
+* Senior Research Analyst (2019 - 2021)
+  * CommunityCare Health Centers
+  * Duties included: 
+      - Collecting and analyzing organizational data from various sources using SQL and Python
+      - Evaluating data to determine trends, discrepancies, and other project-specific requirements
+      - Creating robust data visualizations and dashboards with business intelligence tools (e.g. Tableau)
+      - Writing stored procedures and SSIS packages to process and standardizing large datasets
+      - Developing scripts in Python to automate report generation and delivery
+      - Generating insights and preparing recommendations to support upper-management and decision making
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Data Migration Analyst II (2018 - 2019)
+  * Q2ebanking
+  * Duties included: 
+      - Developing and executing data processing scripts in Python to migrate client data to Q2 software and platform
+      - Resolving complex client application, integration, and environment issues
+      - Diagnosing and resolving data migration problems of a complex nature
+      - Extracting, transforming, and updating relational databases with SQL
+      - Managing multiple projects while balancing escalated cases and high priority concerns
+      - Establishing relationships and coordinating with other Q2 teams including Implementations, Data Center Operations, QA and Development
+      
+* Data Analyst (2017)
+  * Institute for Health Metrics and Evaluation (IHME)
+  * Duties included: 
+    - Applying statistical methods on global health data & disease estimations
+    - Examining cost effectiveness and efficacy of clinical interventions in developing countries
+    - Creating visualizations in R & plot.ly to display Markov, microsimulation model outputs
+    - Extracting and aggregating institutional data from a variety of academic studies and NGO for on-going projects.
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+
