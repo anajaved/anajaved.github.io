@@ -5,4 +5,6 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-![portfolio banner](/images/Portfolio.png) 
+<img src="/images/Portfolio.png" alt="Portfolio" width="650"/>
+
+
