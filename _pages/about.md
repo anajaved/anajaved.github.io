@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![about me banner](/images/AboutMe.png) 
+<img src="/images/AboutMe.png" alt="AboutMe" width="650"/>
 
 <b> Hi, nice to meet you! </b>
 
@@ -22,6 +22,6 @@ Tools Used
 ![combined logos](/images/LogosCombined.png) 
 
 
-For more info
+For More Info
 ------
 Questions? Please don't hesitate to reach out to via email or other online platforms.
