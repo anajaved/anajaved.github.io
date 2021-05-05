@@ -10,8 +10,12 @@ header:
  image: "/images/AboutMe.png"
 ---
 
-Hi, nice to meet you! \
-I'm a data scientist with over 4 years experience in the data science field. I am passionate about solving complex and challenging problems in the world by applying machine learning algorithms and statistical methods. In my professional experience, I have conducted analyses across the fintech, academic/research, and healthcare industries. 
+<b> Hi, nice to meet you! </b>
+
+I'm a data scientist with over 4 years experience in the data science field. I am passionate about solving complex and challenging problems in the world by applying machine learning algorithms and statistical methods. In my professional experience, I have conducted analyses across the fintech, academic/research, and healthcare industries.
+
+I love working on projects together, so feel free to reach out for collaboration!
+
 
 Tools Used
 ------
