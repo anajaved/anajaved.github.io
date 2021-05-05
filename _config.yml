@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "" #"Ana Javed"
-  avatar           : "" #"20170806_140608.jpg"
+  avatar           : "Ana Javed.png" #"20170806_140608.jpg"
   bio              : "Data Scientist"
   location         : "Austin, TX"
   employer         :
