@@ -1,15 +1,16 @@
+![About Me Banner](/images/Ana Javed.png)
+
 ---
 permalink: /
-title:  "About me" 
-excerpt: "About Me"
+title:  "About Me" 
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-![About Me Banner](/images/Ana Javed.png)
 
-Hi, nice to meet you! 
+Hi, nice to meet you! \
 I'm a data scientist with over 4 years experience in the data science field. I am passionate about solving complex and challenging problems in the world by applying machine learning algorithms and statistical methods. In my professional experience, I have conducted analyses across the fintech, academic/research, and healthcare industries. 
 
 
@@ -21,14 +22,8 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 Tools Used
 ======
-![python Logo](/images/python_logo.png) 
-![SQL Logo](/images/sql_logo.jpg) 
-![Scikitlearn Logo](/images/sci-kit-logo.png) 
-![Rstudio Logo](/images/rstudio-logo.jpg) 
-![Pandas Logo](/images/pandas.png) 
+![combined logos](/images/LogosCombined.png) 
 
-![Jupyter Logo](/images/Jupyter.jpg)
-![Git Logo](/images/git-logo.png)
 
 
 Site-wide configuration
