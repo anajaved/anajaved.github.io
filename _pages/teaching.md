@@ -18,9 +18,9 @@ author_profile: true
 - Troubleshooted system issues and assisted answering questions
 
 
-###  Hear Me Code (https://hearmecode.com/) 
+###  Hear Me Code 
 ----
-#### Teaching Assistant
+#### Teaching Assistant -- [Website](https://hearmecode.com/) 
 ##### Jan 2017 - Jun 2017
 
 - Supported students who attended Python courses provided by the Hear Me Code organization as a teaching assistant
