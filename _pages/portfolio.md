@@ -11,6 +11,8 @@ Statistical Methods
 -----
 - T-test hypothesis testing between multiple different Automobile groups
   - [Github Link](https://github.com/anajaved/UW_Data_Science_Cert/blob/main/AnaJaved-L04-AutoHypothesis.ipynb)
+- Bootstrapping and Bayesian Methods on Automobile dataset
+  - [Github Link](https://github.com/anajaved/UW_Data_Science_Cert/blob/main/AnaJaved-M02-HypothesisSim.ipynb)
   
 Regression
 -----
