@@ -1,5 +1,3 @@
-![About Me Banner](/images/Ana Javed.png)
-
 ---
 permalink: /
 title:  "About Me" 
