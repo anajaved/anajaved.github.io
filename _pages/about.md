@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-![Banner](/images/Ana Javed.png )
-
-
 About Me
 ======
 Hi, nice to meet you! \
