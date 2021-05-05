@@ -7,8 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 header:
- image: "/images/AboutMe.png"
+  image: "/images/AboutMe.png"
 ---
+
+![about me banner](/images/AboutMe.png) 
 
 <b> Hi, nice to meet you! </b>
 
