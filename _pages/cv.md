@@ -20,6 +20,15 @@ Education
 
 Work experience
 ----
+* Data Scientist (2021 - Present)
+  * Flex
+  * Duties included: 
+      - Building scalable analytical applications in python and R, and integrating successful models and algorithms in production
+      - Created and maintained a web hosted application to support internal IT team (50+ users) during server migration
+      - Implementing statistical methods, machine learning techniques to create scalable solutions for business problems
+      - Analyze and extract relevant information from big data via SQL to help automate and optimize key processes
+      - Making business recommendations (e.g. cost benefit, forecasting, experiment analysis) with presentation to stakeholders
+
 * Senior Research Analyst (2019 - 2021)
   * CommunityCare Health Centers
   * Duties included: 
