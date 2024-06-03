@@ -11,23 +11,25 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education 
 ----
 * Data Science Certificate, University of Washington, 2021
 * Data Science Nanodegree, Udacity 2017 
 * B.S. University of Maryland, Baltimore University, 2015
 
 
-Work experience
+Work Experience
 ----
-* Data Scientist (2021 - Present)
+* Supply Chain Data Scientist (2021 - 2023)
   * Flex
   * Duties included: 
       - Building scalable analytical applications in python and R, and integrating successful models and algorithms in production
-      - Created and maintained a web hosted application to support internal IT team (50+ users) during server migration
+      - Modified existing data pipelines in development which reduced data processing time by 30%
+      - Created and maintained a web hosted application to support internal IT team (200+ users) during server migration
       - Implementing statistical methods, machine learning techniques to create scalable solutions for business problems
-      - Analyze and extract relevant information from big data via SQL to help automate and optimize key processes
+      - Extract, transform, and ingest data from various sources (using SQL, python, and APIs) to help automate and optimize key technical processes for the data science team
       - Making business recommendations (e.g. cost benefit, forecasting, experiment analysis) with presentation to stakeholders
+      - Project management and support across the project lifecycle, including leading solution and data model designs
 
 * Senior Research Analyst (2019 - 2021)
   * CommunityCare Health Centers
