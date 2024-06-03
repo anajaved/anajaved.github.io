@@ -25,15 +25,15 @@ Tools Used 🛠️
 ![combined logos](/images/LogosCombined.png) 
 
 
-| :-: |:-: |
-| Snowflake   | AWS Cloud |
-| Teradata | Data Ingestion & Pipelines     |
-| NoSQL    | QA Testing/ Debugging    |
-| Database Management    | REST APIs |
-| Docker | Salesforce |
-| Application Development | Serverless Infrastructure |
-| Server Configuration | ETL/ELT |
-| Git/Github | Agile Methodology |
+|:---:|:---:|
+| Snowflake| AWS Cloud |
+| Teradata | Data Ingestion & Pipelines|
+| NoSQL| QA Testing/ Debugging|
+| Database Management| REST APIs |
+| Docker| Salesforce |
+| Application Development| Serverless Infrastructure|
+| Server Configuration | ETL/ELT|
+| Git/Github | Agile Methodology|
 
 
 Certifications 🏆
