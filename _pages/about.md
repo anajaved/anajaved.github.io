@@ -10,7 +10,8 @@ redirect_from:
 
 <img src="/images/AboutMe.png" alt="AboutMe" width="650"/>
 
-<b> Hi, nice to meet you! </b> : Waving Hand: Medium Skin Tone:
+Hi, nice to meet you! 👋🏽
+------
 
 I'm a data science enthusiast with over 6 years _(and counting!)_ of experience working in the tech field. I am passionate about solving complex and challenging problems in the world by applying machine learning algorithms and statistical methods. In my professional experience, I have conducted analyses across the fintech, academic/research, healthcare, and supply chain industries. 
 
@@ -19,7 +20,7 @@ I have also developed a deep understanding of data management requirements, and 
 I **love** working on projects together, so feel free to reach out for collaboration!
 
 
-Tools Used : Hammer and Wrench :
+Tools Used 🛠️
 ------
 ![combined logos](/images/LogosCombined.png) 
 
@@ -35,7 +36,7 @@ Tools Used : Hammer and Wrench :
 | Git/Github | Agile Methodology |
 
 
-Certifications : Trophy :
+Certifications 🏆
 ------
 
 <div data-iframe-width="250" data-iframe-height="270" data-share-badge-id="5e09670d-b46b-4137-bdd2-c5f797bb3a2a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
@@ -45,6 +46,6 @@ Certifications : Trophy :
 
 
 
-For More Info : Open Mailbox with Raised Flag : 
+For More Info 📫
 ------
 Questions? Please don't hesitate to contact me via email or other online platforms.
