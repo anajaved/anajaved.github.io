@@ -21,7 +21,7 @@ Education
 Work Experience
 ----
 * **Supply Chain Data Scientist (2021 - 2023)**
-  * _Flextronics_ &mdash Austin, TX
+  * _Flextronics_ in Austin, TX
   * Responsibilities: 
       - Building scalable analytical applications in python and R, and integrating successful models and algorithms in production
       - Modified existing data pipelines in development which reduced data processing time by 30%
@@ -32,7 +32,7 @@ Work Experience
       - Project management and support across the project lifecycle, including leading solution and data model designs
 
 * **Senior Research Analyst (2019 - 2021)**
-  * _CommunityCare Health Centers_ &mdash Austin, TX
+  * _CommunityCare Health Centers_ in Austin, TX
   * Responsibilities: 
       - Collecting and analyzing organizational data from various sources using SQL and Python
       - Evaluating data to determine trends, discrepancies, and other project-specific requirements
@@ -42,7 +42,7 @@ Work Experience
       - Generating insights and preparing recommendations to support upper-management and decision making
 
 * **Data Migration Analyst II (2018 - 2019)**
-  * _Q2ebanking_ &mdash Austin, TX
+  * _Q2ebanking_ in Austin, TX
   * Responsibilities: 
       - Developing and executing data processing scripts in Python to migrate client data to Q2 software and platform
       - Resolving complex client application, integration, and environment issues
@@ -52,7 +52,7 @@ Work Experience
       - Establishing relationships and coordinating with other Q2 teams including Implementations, Data Center Operations, QA and Development
       
 * **Data Analyst (2017)**
-  * _Institute for Health Metrics and Evaluation (IHME)_ &mdash Seattle, WA
+  * _Institute for Health Metrics and Evaluation (IHME)_ in Seattle, WA
   * Responsibilities: 
     - Applying statistical methods on global health data & disease estimations
     - Examining cost effectiveness and efficacy of clinical interventions in developing countries
